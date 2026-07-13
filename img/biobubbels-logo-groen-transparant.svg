@@ -1,14 +1,112 @@
-<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 340 120" width="680" height="240">
-  <title>Biobubbels logo — wijngaardgroen op transparant, voor lichte achtergronden</title>
-  <g fill="#1E3A2F">
-    <circle cx="292" cy="62" r="2" opacity="0.5"/>
-    <circle cx="300" cy="50" r="3" opacity="0.6"/>
-    <circle cx="291" cy="37" r="2.5" opacity="0.7"/>
-    <circle cx="303" cy="26" r="4.5" opacity="0.8"/>
-    <circle cx="315" cy="36" r="2" opacity="0.55"/>
-    <circle cx="296" cy="12" r="3" opacity="0.9"/>
-    <circle cx="312" cy="10" r="6"/>
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<svg
+   viewBox="0 0 234.41467 100.35195"
+   width="468.82935"
+   height="200.7039"
+   version="1.1"
+   id="svg8"
+   sodipodi:docname="biobubbels-logo-groen-transparant.svg"
+   inkscape:version="1.4.3 (0d15f75042, 2025-12-25)"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:svg="http://www.w3.org/2000/svg"
+   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+   xmlns:cc="http://creativecommons.org/ns#"
+   xmlns:dc="http://purl.org/dc/elements/1.1/">
+  <defs
+     id="defs8" />
+  <sodipodi:namedview
+     id="namedview8"
+     pagecolor="#ffffff"
+     bordercolor="#000000"
+     borderopacity="0.25"
+     inkscape:showpageshadow="2"
+     inkscape:pageopacity="0.0"
+     inkscape:pagecheckerboard="0"
+     inkscape:deskcolor="#d1d1d1"
+     inkscape:zoom="1.6896906"
+     inkscape:cx="194.71021"
+     inkscape:cy="179.32277"
+     inkscape:window-width="2941"
+     inkscape:window-height="1266"
+     inkscape:window-x="26"
+     inkscape:window-y="23"
+     inkscape:window-maximized="0"
+     inkscape:current-layer="svg8" />
+  <title
+     id="title1">Biobubbels logo — wijngaardgroen op transparant, voor lichte achtergronden</title>
+  <g
+     fill="#1e3a2f"
+     id="g7"
+     style="display:inline"
+     transform="translate(-83.980837,-4)">
+    <circle
+       cx="292"
+       cy="62"
+       r="2"
+       opacity="0.5"
+       id="circle1" />
+    <circle
+       cx="300"
+       cy="50"
+       r="3"
+       opacity="0.6"
+       id="circle2" />
+    <circle
+       cx="291"
+       cy="37"
+       r="2.5"
+       opacity="0.7"
+       id="circle3" />
+    <circle
+       cx="303"
+       cy="26"
+       r="4.5"
+       opacity="0.8"
+       id="circle4" />
+    <circle
+       cx="315"
+       cy="36"
+       r="2"
+       opacity="0.55"
+       id="circle5" />
+    <circle
+       cx="296"
+       cy="12"
+       r="3"
+       opacity="0.9"
+       id="circle6" />
+    <circle
+       cx="312"
+       cy="10"
+       r="6"
+       id="circle7"
+       style="display:inline" />
   </g>
-  <text x="30" y="82" font-family="'Cormorant Garamond', Georgia, 'Times New Roman', serif" font-size="40" letter-spacing="2" fill="#1E3A2F">Biobubbels</text>
-  <text x="32" y="106" font-family="Inter, Helvetica, Arial, sans-serif" font-size="10" letter-spacing="5" fill="#6B5B3E">BIOLOGISCH MOUSSEREND</text>
+  <text
+     x="-1.1523422"
+     y="74.681747"
+     font-family="'Cormorant Garamond', Georgia, 'Times New Roman', serif"
+     font-size="40px"
+     letter-spacing="2"
+     fill="#1e3a2f"
+     id="text7">Biobubbels</text>
+  <text
+     x="-0.74533314"
+     y="100.12194"
+     font-family="Inter, Helvetica, Arial, sans-serif"
+     font-size="10px"
+     letter-spacing="5"
+     fill="#6b5b3e"
+     id="text8">BIOLOGISCH MOUSSEREND</text>
+  <metadata
+     id="metadata8">
+    <rdf:RDF>
+      <cc:Work
+         rdf:about="">
+        <dc:title>Biobubbels logo — wijngaardgroen op transparant, voor lichte achtergronden</dc:title>
+      </cc:Work>
+    </rdf:RDF>
+  </metadata>
 </svg>
